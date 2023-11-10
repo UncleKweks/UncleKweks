@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UncleKweks
-- 👀 I’m interested in full stack dev
+- 👀 I’m interested in web3 dev
 - 🌱 I’m currently learning front end dev
 - 💞️ I’m looking to collaborate on front end dev
 - 📫 How to reach me kwesiliokafor25@gmail.com
