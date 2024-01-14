@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UncleKweks
+- 👋 Hi, I’m @Kwesili Okafor
 - 👀 I’m interested in web3 dev
 - 🌱 I’m currently learning front end dev
 - 💞️ I’m looking to collaborate on front end dev
