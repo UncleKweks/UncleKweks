@@ -9,10 +9,13 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 ---
 
 ### 🛡️ Audit Platforms
-- 🏆 [Code4rena](https://code4rena.com/@Kweks) – @Kweks  
-- 🔍 [Sherlock](https://sherlock.xyz) – @Kweks
-- 💥 [CodeHawks](https://profiles.cyfrin.io/u/kweks) – @Kweks
-- 🔍 [Cantina](https://cantina.xyz/u/Kweks) - @Kweks
+- 🏆 [Code4rena]- [Kweks](https://code4rena.com/@Kweks) 
+- 🔍 [Sherlock]- [Kweks](https://sherlock.xyz) 
+- 💥 [CodeHawks]- [Kweks](https://profiles.cyfrin.io/u/kweks)
+- 🔍 [Cantina]- [Kweks](https://cantina.xyz/u/Kweks)
+- 💥 Immunefi – Active researcher
+
+
 
 ---
 
@@ -36,9 +39,9 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 | [Crestal Network](#) | 1 | 0 | – | Solo |
 
 #### 🔧 CodeHawks
-| Project | High | Medium | Low | Report |
-|---------|------|--------|-----|--------|
-| [Cure Storage Proofs](#) | - | - | 1 | [[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
+| Contest             | High | Medium | Low | Rank | Report    |
+| ------------------- | ---- | ------ | --- | ---- | --------- |
+| [Storage Proofs](#) | –    | –      | 1   | 9th  |[[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
 
 ---
 
