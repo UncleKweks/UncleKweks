@@ -1,6 +1,6 @@
-# Kwesili 👨🏾‍💻
+# Kwesi 👨🏾‍💻
 
-Hi, I’m **Kwesili**, a Blockchain developer, an independent blockchain security researcher, and a smart contract auditor. I specialize in uncovering hidden vulnerabilities across DeFi, NFT, and protocol-level systems, helping projects launch with confidence and resilience.
+Hi, I’m **Kwesi**, a Blockchain developer, an independent blockchain security researcher, and a smart contract auditor. I specialize in uncovering hidden vulnerabilities across DeFi, NFT, and protocol-level systems, helping projects launch confidently and resiliently.
 
 I actively compete in audit contests on top platforms like **Code4rena**, **Sherlock**, **CodeHawks**, **Cantina**, and **Immunefi**,  where I’ve contributed to securing millions in user funds. My work is driven by curiosity, precision, and a deep respect for decentralized ecosystems.
 
