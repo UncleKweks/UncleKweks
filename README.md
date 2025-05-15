@@ -33,6 +33,19 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 
 ### 🔎 Selected Audit Contributions
 
+
+#### 🔎 First Flight
+
+| Contest                             | High | Medium | Low | Rank  | 
+|-------------------------------------|:----:|:------:|:---:|:-----:|
+| Rock Paper Scissors                 |  –   |   1    |  3  | 78    |
+| Eggstravaganza                      |  3   |   3    |  3  | 1st   |
+| RustFund                            |  3   |   2    |  1  | 10th  |
+| Inheritable Smart Contract Wallet  |  2   |   –    |  1  |  74th  |
+| DatingDapp                          |  1   |   1    |  –  | 54th  |
+| Pieces Protocol                     |  –   |   –    |  1  | 61st  |
+
+
 #### 🕵🏽‍♂️ Sherlock
 | Contest | High | Medium | Rank | Team |
 |--------|------|--------|------|------|
