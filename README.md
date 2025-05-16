@@ -34,7 +34,7 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 ### 🔎 Selected Audit Contributions
 
 
-#### 🔎 First Flight
+#### First Flight ✈️
 
 | Contest                             | High | Medium | Low | Rank  | 
 |-------------------------------------|:----:|:------:|:---:|:-----:|
