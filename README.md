@@ -49,12 +49,12 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 #### 🕵🏽‍♂️ Sherlock
 | Contest | High | Medium | Rank | Team |
 |--------|------|--------|------|------|
-| [Crestal Network](#) | 1 | 0 | – | Solo |
+|Crestal Network| 1 | 0 | – | Solo |
 
 #### 🔧 CodeHawks
 | Contest             | High | Medium | Low | Rank | Report    |
 | ------------------- | ---- | ------ | --- | ---- | --------- |
-| [Storage Proofs](#) | –    | –      | 1   | 9th  |[[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
+| Storage Proofs | –    | –      | 1   | 9th  |[[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
 
 ---
 
