@@ -55,7 +55,7 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 | Contest             | High | Medium | Low | Rank | Report    |
 | ------------------- | ---- | ------ | --- | ---- | --------- |
 | Storage Proofs | –    | –      | 1   | 9th  |[[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
-| Core Cntracts(RAAC) | 1   | 2    |  -  | 351st  |[[Core Cntracts(RAAC)](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=36&sc=reward&sj=reward&t=leaderboard)]|
+| Core Cntracts(RAAC) | 1   | 2    |  -  | 351st  |[[Core Cntracts(RAAC)](https://codehawks.cyfrin.io/c/2025-02-raac/s/3711)]|
 
 ---
 
