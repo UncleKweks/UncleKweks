@@ -68,7 +68,7 @@ I actively compete in audit contests on top platforms like **Code4rena**, **Sher
 ---
 
 ### 🤝 Contact & Links
-- 📩 Email: Kwesiliokafor07@gmail.com
+- 📩 Email: Kwesiliokafor7@gmail.com
 - 🐦 Twitter: [Kwesi_](https://x.com/kwesi0xx)
 - 💬 Telegram: [@kwesi](https://t.me/@kweks47)
 - 🛠️ Notion: [Audit Notes (Coming Soon)](#)
