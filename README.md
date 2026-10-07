@@ -1,78 +1,38 @@
-# Kwesi 👨🏾‍💻
+## Kwesili Okafor
 
-Hi, I’m **Kwesi**, a Blockchain developer, an independent blockchain security researcher, and a smart contract auditor. I specialize in uncovering hidden vulnerabilities across DeFi, NFT, and protocol-level systems, helping projects launch confidently and resiliently.
+Backend engineer working on systems that move money. Go, PostgreSQL and gRPC, with a security background from smart contract auditing.
 
-I actively compete in audit contests on top platforms like **Code4rena**, **Sherlock**, **CodeHawks**, **Cantina**, and **Immunefi**,  where I’ve contributed to securing millions in user funds. My work is driven by curiosity, precision, and a deep respect for decentralized ecosystems.
+I care about the parts of a backend where a wrong state costs real money: balances that always reconcile, retries that never charge twice, and permission checks that hold under abuse.
 
-🔍 Whether it's gas optimization, logic flaws, or economic exploits, I’m all about finding what others miss. My goal? To make your smart contracts bulletproof.
+### What I'm building
 
----
+- **ledger-service** (in progress): double-entry ledger in Go and PostgreSQL with REST and gRPC APIs, idempotent transfers and an append-only audit trail.
+- **[ticket-api](https://github.com/UncleKweks/ticket-api)** + **[booking-app](https://github.com/UncleKweks/booking-app)**: REST API in pure Go (no framework, no ORM) with a booking frontend and a goroutine-based async notifier.
+- **[go-hackernews-clone](https://github.com/UncleKweks/go-hackernews-clone)**: link aggregator on `net/http`, `html/template` and SQLite, with sessions, bcrypt auth, voting, comments and pagination.
 
-### 🛡️ Audit Platforms
-- 🏆 [Code4rena]- [Kweks](https://code4rena.com/@Kweks) 
-- 🔍 [Sherlock]- [Kweks](https://sherlock.xyz) 
-- 💥 [CodeHawks]- [Kweks](https://profiles.cyfrin.io/u/kweks)
-- 🔍 [Cantina]- [Kweks](https://cantina.xyz/u/Kweks)
-- 💥 Immunefi – Active researcher
+### Production work
 
+- **G-Nation (Backshire Platinum)**: took a five-contract payment platform from client brief to production on Base mainnet. TypeScript and Solidity, 26/26 passing end-to-end suite before release.
+- **Ackee Blockchain**: security review of production smart contracts.
 
+### Security
 
----
+Competitive auditor on Sherlock, CodeHawks and Code4rena.
 
-### 📊 Stats Summary  
-| Type       | Count |
-|------------|-------|
-| High Risk Findings    | 01     |
-| Medium Risk Findings  | XX     |
-| Low Risk Findings     | 01     |
-| Total Verified Issues | 02     |
+| Contest | Platform | Result |
+|---|---|---|
+| Crestal Network | Sherlock | 1 High, solo |
+| Eggstravaganza | CodeHawks First Flight | 1st place (3 H, 3 M, 3 L) |
+| RustFund | CodeHawks First Flight | 10th (3 H, 2 M) |
+| Storage Proofs | CodeHawks | 9th |
+| RAAC Core Contracts | CodeHawks | 1 H, 2 M |
 
-> *Note: Detailed breakdown coming soon as I expand my public reports.*
+### Stack
 
----
+Go · PostgreSQL · gRPC · REST · Docker · TypeScript/Node.js · Rust · Solidity · Python
 
-### 🔎 Selected Audit Contributions
+### Contact
 
+[LinkedIn](https://www.linkedin.com/in/chimkwesili-okafor-a80562384) · kwesiliokafor25@gmail.com
 
-#### First Flight ✈️
-
-| Contest                             | High | Medium | Low | Rank  | 
-|-------------------------------------|:----:|:------:|:---:|:-----:|
-| Rock Paper Scissors                 |  –   |   1    |  3  | 78    |
-| Eggstravaganza                      |  3   |   3    |  3  | 1st   |
-| RustFund                            |  3   |   2    |  1  | 10th  |
-| Inheritable Smart Contract Wallet  |  2   |   –    |  1  |  74th  |
-| DatingDapp                          |  1   |   1    |  –  | 54th  |
-| Pieces Protocol                     |  –   |   –    |  1  | 61st  |
-
-
-#### 🕵🏽‍♂️ Sherlock
-| Contest | High | Medium | Rank | Team |
-|--------|------|--------|------|------|
-|Crestal Network| 1 | 0 | – | Solo |
-
-#### 🔧 CodeHawks
-| Contest             | High | Medium | Low | Rank | Report    |
-| ------------------- | ---- | ------ | --- | ---- | --------- |
-| Storage Proofs | –    | –      | 1   | 9th  |[[STORAGE PROOFS](https://codehawks.cyfrin.io/c/2025-03-curve/s/228)]|
-| Core Cntracts(RAAC) | 1   | 2    |  -  | 351st  |[[Core Cntracts(RAAC)](https://codehawks.cyfrin.io/c/2025-02-raac/s/3711)]|
-
----
-
-### 🎯 Current Focus
-- Competitive audit contests (C4, Sherlock, CodeHawks, Cantina)
-- Reviewing past audit reports to level up
-- Deep-diving into tick alignment issues, protocol-level design flaws, and gas griefing
-- Staying lean (literally — 90-day shred underway 💪🏾)
-
----
-
-### 🤝 Contact & Links
-- 📩 Email: Kwesiliokafor7@gmail.com
-- 🐦 Twitter: [Kwesi_](https://x.com/kwesi0xx)
-- 💬 Telegram: [@kwesi](https://t.me/@kweks47)
-- 🛠️ Notion: [Audit Notes (Coming Soon)](#)
-
----
-
-> 📌 Always open to collaborations, development works, private audits, and audit-focused roles. Let’s build safer smart contracts together.
+Open to backend engineering roles: relocation (EU/UK) or remote.
