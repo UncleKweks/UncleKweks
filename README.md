@@ -4,9 +4,9 @@ Backend engineer working on systems that move money. Go, PostgreSQL and gRPC, wi
 
 I care about the parts of a backend where a wrong state costs real money: balances that always reconcile, retries that never charge twice, and permission checks that hold under abuse.
 
-### What I'm building
+### Projects
 
-- **ledger-service** (in progress): double-entry ledger in Go and PostgreSQL with REST and gRPC APIs, idempotent transfers and an append-only audit trail.
+- **[ledger-service](https://github.com/UncleKweks/ledger-service)**: double-entry ledger in Go and PostgreSQL, served over REST and gRPC from one service layer. PostgreSQL enforces the invariants itself: entries sum to zero (deferred constraint trigger), history is append-only, per-account row locks stop overdrafts under concurrency, and idempotency keys make retries safe. Tested against real Postgres with race-detector runs in CI.
 - **[ticket-api](https://github.com/UncleKweks/ticket-api)** + **[booking-app](https://github.com/UncleKweks/booking-app)**: REST API in pure Go (no framework, no ORM) with a booking frontend and a goroutine-based async notifier.
 - **[go-hackernews-clone](https://github.com/UncleKweks/go-hackernews-clone)**: link aggregator on `net/http`, `html/template` and SQLite, with sessions, bcrypt auth, voting, comments and pagination.
 
